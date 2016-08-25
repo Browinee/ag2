@@ -1,5 +1,6 @@
 import {Component} from '@angular/core';
 import {HeroesComponent} from './hero.component';
+import './rxjs-extensions';
 
 @Component({
 	selector:'my-app',
